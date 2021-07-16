@@ -1,4 +1,0 @@
-runners/VacantesRunner.java
- runners.VacantesRunner
-stepdefinitions/VacantesStepDefinition.java
- stepdefinitions.VacantesStepDefinition
