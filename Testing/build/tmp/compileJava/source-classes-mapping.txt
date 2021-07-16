@@ -1,0 +1,12 @@
+Driver/WebDriver.java
+ Driver.WebDriver
+tasks/OpenTheBrowser.java
+ tasks.OpenTheBrowser
+userinterface/ChoucairForm.java
+ userinterface.ChoucairForm
+tasks/NavigateHomePageChoucair.java
+ tasks.NavigateHomePageChoucair
+userinterface/HomePage.java
+ userinterface.HomePage
+tasks/OptionsJobs.java
+ tasks.OptionsJobs
